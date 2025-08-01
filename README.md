@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Flutter-based projects while also contributing to open-source and hackathons.<br><br>👯 I’m looking to collaborate on Flutter apps, DSA problem-solving groups, AI/ML projects<br><br>🤝 I’m looking for help with Flutter performance tuning and building impactful real-world tech solutions.<br><br>🌱 I’m currently learning Data Structures & Algorithms in C++, Backend development , System Design<br><br>💬 Ask me about Flutter app development, UI/UX for mobile, ML projects in healthcare, or how I transitioned from a biology background to tech.<br><br>⚡ Fun fact: From DNA to DSA—my journey blends biology and code.</p>
+<p align="left">🔭 Flutter dev | 👨‍💻 Ex-bio turned coder <br><br>👯 Building apps, solving DSA, exploring AI/ML <br><br>🤝 Learning backend & system design  <br><br>⚡ Fun fact: From DNA to DSA—my journey blends biology and code.</p>
 
 ###
 
