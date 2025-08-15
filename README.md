@@ -28,11 +28,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">📱 Flutter dev | 👨‍💻 Ex-bio turned coder <br><br>😁 Building apps, solving DSA, exploring AI/ML <br><br>🤝 Learning backend & system design  <br><br>⚡ Fun fact: From DNA to DSA—my journey blends biology and code.</p>
+<p align="left">📱 Flutter dev | Ex-bio turned coder <br><br> :: Building apps, solving DSA, exploring AI/ML <br><br> :: Learning backend & system design  <br><br> :: Fun fact: From DNA to DSA—my journey blends biology and code.</p>
 
 ###
 
